@@ -1,3 +1,3 @@
-hub_resource_group = "dmw-lab-07272021-rr-hub"
+hub_resource_group = "dmw-lab-072721-rraj-hub"
 spoke_resource_group = "dmw-lab-07272021-rr-spoke"
 prefix = "rr"
